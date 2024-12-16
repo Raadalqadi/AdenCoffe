@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.da165282.css",
+    "main.js": "./static/js/main.08f50546.js",
+    "static/js/453.b6945ec7.chunk.js": "./static/js/453.b6945ec7.chunk.js",
+    "static/media/ElMessiri-VariableFont_wght.ttf": "./static/media/ElMessiri-VariableFont_wght.3dd59e3d59b0aead44f8.ttf",
+    "static/media/Cap.png": "./static/media/Cap.87f05d83bea270227596.png",
+    "static/media/logo.jpg": "./static/media/logo.80a313bc4538c7d3145f.jpg",
+    "static/media/icons8-search.svg": "./static/media/icons8-search.70614fc7bfb203a4cd10069fcef76ffa.svg",
+    "index.html": "./index.html",
+    "main.da165282.css.map": "./static/css/main.da165282.css.map",
+    "main.08f50546.js.map": "./static/js/main.08f50546.js.map",
+    "453.b6945ec7.chunk.js.map": "./static/js/453.b6945ec7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da165282.css",
+    "static/js/main.08f50546.js"
+  ]
+}

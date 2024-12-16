@@ -1,0 +1,1215 @@
+{
+  "catogry": [
+    "الكل",
+    "قهوة باردة",
+    "قهوة ساخنة",
+    "موهيتو",
+    "ميلك شيك",
+    "ايس تي",
+    "الحلويات",
+    "الآيسكريم",
+    "موهيتو كودرد",
+    "موهيتو سبرايت",
+    "الإفطار",
+    "برجر",
+    "معكرونة",
+    "بيتزا",
+    "أوراق الشاهي"
+  ],
+  "Data": [
+    {
+      "id": 19,
+      "name": "ايس سبانش لاتيه",
+      "category": ["قهوة باردة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة باردة بالحليب المكثف.",
+          "img": "./CoffePhoto/icedspanishlatte.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 20,
+      "name": "ايس شوكلت",
+      "category": ["قهوة باردة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب شكولاتة بارد مع الحليب.",
+          "img": "./CoffePhoto/icedchocolate.png"
+        }
+      ],
+      "price": "4000"
+    },
+    {
+      "id": 21,
+      "name": "ايس كراميل لاتيه",
+      "category": ["قهوة باردة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة باردة بالكراميل.",
+          "img": "./CoffePhoto/icedcaramellatte.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 22,
+      "name": "ايس لاتيه",
+      "category": ["قهوة باردة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة باردة بالحليب بدون سكر.",
+          "img": "./CoffePhoto/icedlatte.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 23,
+      "name": "ايس وايت موكا",
+      "category": ["قهوة باردة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة مثلجة لذيذة ومنعشة بنكهة الشوكولاتة البيضاء.",
+          "img": "./CoffePhoto/icedwhitemocha.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 24,
+      "name": "ايس بستاشيو لاتيه",
+      "category": ["قهوة باردة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب قهوة مبتكر يجمع بين نكهة اللاتيه الكلاسيكية وطعم الفستق.",
+          "img": "./CoffePhoto/icedpistachiolatte.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 25,
+      "name": "V60",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة مختصة مقطرة باردة.",
+          "img": "./CoffePhoto/v60.png"
+        }
+      ],
+      "price": "6000"
+    },
+    {
+      "id": 26,
+      "name": "قهوة تركي",
+      "category": ["قهوة باردة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة تركية الأصل تقدم باردة.",
+          "img": "./CoffePhoto/turkishcoffee.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 27,
+      "name": "كولد برو",
+      "category": ["قهوة باردة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة مركزة مخمرة باردة بدون أي إضافات.",
+          "img": "./CoffePhoto/coldbrew.png"
+        }
+      ],
+      "price": "8000"
+    },
+    {
+      "id": 29,
+      "name": "الاسبريسو ",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة سوداء مركزة بدون سكر.",
+          "img": "./CoffePhoto/espresso.png"
+        }
+      ],
+      "price": "دبل شوت 3000 / سنجل شوت 2500"
+    },
+    {
+      "id": 30,
+      "name": "سبانش لاتيه",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب قهوة ساخن مع حليب مكثف.",
+          "img": "./CoffePhoto/spanishlatte.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 31,
+      "name": "امريكانو",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة بدون حليب.",
+          "img": "./CoffePhoto/americano.png"
+        }
+      ],
+      "price": "3500"
+    },
+    {
+      "id": 32,
+      "name": "بستاشيو لاتيه",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة ساخنة مع زبدة الفستق.",
+          "img": "./CoffePhoto/pistachiolatte.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 33,
+      "name": "فلات وايت",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب ساخن يحتوي على قهوة اسبريسو دبل شوت مع الحليب.",
+          "img": "./CoffePhoto/flatwhite.png"
+        }
+      ],
+      "price": "4000"
+    },
+    {
+      "id": 34,
+      "name": "قهوة عربي",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة ساخنة عربية الأصل.",
+          "img": "./CoffePhoto/ArabicCoffee.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 35,
+      "name": "قهوة فرنسي",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة ساخنة مع الحليب والبندق.",
+          "img": "./CoffePhoto/frenchcoffee.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 36,
+      "name": "قهوة مقطرة",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة ساخنة مركزة.",
+          "img": "./CoffePhoto/dripcoffee.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 37,
+      "name": "كراميل لاتيه",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة ساخنة مع كراميل وحليب.",
+          "img": "./CoffePhoto/caramellatte.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 38,
+      "name": "كرتادو",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب قهوة ساخن مركز مع حليب.",
+          "img": "./CoffePhoto/cortado.png"
+        }
+      ],
+      "price": "3500"
+    },
+    {
+      "id": 39,
+      "name": "لاتيه",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب قهوة إيطالي كلاسيكي يتكون من مزيج من قهوة الإسبريسو والحليب المبخر.",
+          "img": "./CoffePhoto/latte.png"
+        }
+      ],
+      "price": "4000"
+    },
+    {
+      "id": 40,
+      "name": "مكياتو",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب قهوة ساخن إيطالي تقليدي يجمع بين الإسبريسو ورغوة الحليب.",
+          "img": "./CoffePhoto/macchiato.png"
+        }
+      ],
+      "price": "3500"
+    },
+    {
+      "id": 41,
+      "name": "هوت شوكلت",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب قهوة دافئ مع الحليب.",
+          "img": "./CoffePhoto/hotchocolate.png"
+        }
+      ],
+      "price": "4000"
+    },
+    {
+      "id": 42,
+      "name": "وايت موكا",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب قهوة ساخن لذيذ ومُحلى بنكهة الشوكولاتة البيضاء مع الحليب.",
+          "img": "./CoffePhoto/whitemocha.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 43,
+      "name": "الكابتشينو",
+      "category": ["قهوة ساخنة"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "قهوة ساخنة بالحليب.",
+          "img": "./CoffePhoto/cappuccino.png"
+        }
+      ],
+      "price": "3500"
+    },
+    {
+      "id": 44,
+      "name": "ميلك شيك اوريو",
+      "category": ["ميلك شيك"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "آيسكريم بالحليب مع الكريمة المخفوقة المزينة بنكهة اوريو.",
+          "img": "./CoffePhoto/oreomilkshake.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 45,
+      "name": "ميلك شيك بستاشيو",
+      "category": ["ميلك شيك"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "آيسكريم بالحليب مع الكريمة المخفوقة المزينة بنكهة بستاشيو.",
+          "img": "./CoffePhoto/PistachioMilkshake.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 46,
+      "name": "ميلك شيك فراولة",
+      "category": ["ميلك شيك"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "آيسكريم بالحليب مع الكريمة المخفوقة المزينة بنكهة لوتس.",
+          "img": "./CoffePhoto/strawberrymilkshake.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 47,
+      "name": "ميلك شيك لوتس",
+      "category": ["ميلك شيك"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "آيسكريم بالحليب مع الكريمة المخفوقة المزينة بنكهة فراولة.",
+          "img": "./CoffePhoto/lotusmilkshake.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 48,
+      "name": "ميلك شيك نوتيلا",
+      "category": ["ميلك شيك"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "آيسكريم بالحليب مع الكريمة المخفوقة المزينة بنكهة نوتيلا.",
+          "img": "./CoffePhoto/nutellamilkshake.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 49,
+      "name": "ايس تي خوخ",
+      "category": ["ايس تي"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب الشاي المثلج ونكهة الخوخ الشهية.",
+          "img": "./CoffePhoto/peachicedtea.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 50,
+      "name": "ايس تي رمان",
+      "category": ["ايس تي"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب الشاي المثلج ونكهة الرمان الشهية.",
+          "img": "./CoffePhoto/pomegranateicedtea.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 51,
+      "name": "ايس تي فراولة",
+      "category": ["ايس تي"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب الشاي المثلج ونكهة الفراولة الشهية.",
+          "img": "./CoffePhoto/strawberryicedtea.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 52,
+      "name": "موهيتو هاواي",
+      "category": ["موهيتو"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب استوائي يجمع بين النكهات والفواكه الطازجة.",
+          "img": "./CoffePhoto/hawaiimojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 53,
+      "name": "موهيتو كريتر",
+      "category": ["موهيتو"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب غازي منعش مزيج بين النكهات الحامضة والحلوة.",
+          "img": "./CoffePhoto/cratermojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 54,
+      "name": "موهيتو عدن",
+      "category": ["موهيتو"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب غازي منعش مزيج بين النكهات الحامضة والحلوة.",
+          "img": "./CoffePhoto/adenmojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 55,
+      "name": "موهيتو سن رايز",
+      "category": ["موهيتو"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب منعش ومليء بالنكهات، يجمع بين حلاوة عصير البرتقال ونكهة النعناع.",
+          "img": "./CoffePhoto/sunrisemojito.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 56,
+      "name": "موهيتو روان عنب",
+      "category": ["موهيتو"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب منعش يجمع بين نكهة العنب الحلوة ونكهة النعناع والليمون.",
+          "img": "./CoffePhoto/graperowanmojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 57,
+      "name": "موهيتو توت مكس",
+      "category": ["موهيتو"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب منعش ولذيذ، ويجمع بين الحموضة والحلاوة.",
+          "img": "./CoffePhoto/mixedberrymojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 56,
+      "name": "موهيتو كودرد",
+      "category": ["موهيتو كودرد"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "خيار ممتاز لمشروب منعش ولذيذ مع لمسة حلوة ومميزة من كودرد واضافات النعناع واليمون.",
+          "img": "./CoffePhoto/CodeRedMojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 57,
+      "name": "موهيتو كودرد ليمون",
+      "category": ["موهيتو كودرد"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب طاقة غازي بنكهة اليمون مع اليمون والنعناع.",
+          "img": "./CoffePhoto/coderedlemonmojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 58,
+      "name": "موهيتو كودرد كرز",
+      "category": ["موهيتو كودرد"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب طاقة غازي بنكهة الكرز مع اليمون والنعناع.",
+          "img": "./CoffePhoto/coderedcherrymojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 59,
+      "name": "موهيتو كودرد فراولة",
+      "category": ["موهيتو كودرد"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب طاقة غازي بنكهة الفراولة مع اليمون والنعناع.",
+          "img": "./CoffePhoto/coderedberrymojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 60,
+      "name": "موهيتو كودرد علكة",
+      "category": ["موهيتو كودرد"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب طاقة غازي بنكهة العلكة مع اليمون والنعناع.",
+          "img": "./CoffePhoto/coderedbubblegummojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 61,
+      "name": "موهيتو كودرد خوخ",
+      "category": ["موهيتو كودرد"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب طاقة غازي بنكهة الخوخ مع اليمون والنعناع.",
+          "img": "./CoffePhoto/coderedpeachmojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 62,
+      "name": "موهيتو كودرد توت احمر",
+      "category": ["موهيتو كودرد"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب طاقة غازي بنكهة التوت الاحمر مع اليمون والنعناع.",
+          "img": "./CoffePhoto/coderedberrymojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 63,
+      "name": "موهيتو كودرد بطيخ",
+      "category": ["موهيتو كودرد"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب طاقة غازي بنكهة البطيخ مع اليمون والنعناع.",
+          "img": "./CoffePhoto/coderedwatermelonmojito.png"
+        }
+      ],
+      "price": "5000"
+    },
+    {
+      "id": 64,
+      "name": "موهيتو سبرايت",
+      "category": ["موهيتو سبرايت"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "موهيتو سبرايت يجمع بين الانتعاش والحلاوة، مما يجعله خياراً رائعاً منعشاً للأيام الحارة.",
+          "img": "./CoffePhoto/SpriteMojito.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 65,
+      "name": "موهيتو سبرايت تفاح اخضر",
+      "category": ["موهيتو سبرايت"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب غازي بنكهة التفاح الأخضر مع اليمون والنعناع.",
+          "img": "./CoffePhoto/greenapplespritemojito.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 66,
+      "name": "موهيتو سبرايت توت احمر",
+      "category": ["موهيتو سبرايت"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب غازي بنكهة توت احمر مع اليمون والنعناع.",
+          "img": "./CoffePhoto/redberryspritemojito.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 67,
+      "name": "موهيتو سبرايت خوخ",
+      "category": ["موهيتو سبرايت"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب غازي بنكهة الخوخ مع اليمون والنعناع.",
+          "img": "./CoffePhoto/PeachSpriteMojito.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 68,
+      "name": "موهيتو سبرايت فراولة",
+      "category": ["موهيتو سبرايت"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب غازي بنكهة الفراولة مع اليمون والنعناع.",
+          "img": "./CoffePhoto/strawberryspritemojito.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 69,
+      "name": "موهيتو سبرايت كيوي",
+      "category": ["موهيتو سبرايت"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب غازي بنكهة الكيوي مع اليمون والنعناع.",
+          "img": "./CoffePhoto/kiwispritemojito.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 70,
+      "name": "موهيتو سبرايت مارشميلو",
+      "category": ["موهيتو سبرايت"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "مشروب غازي بنكهة المارشملو المحلى مع اليمون والنعناع.",
+          "img": "./CoffePhoto/marshmallowspritemojito.png"
+        }
+      ],
+      "price": "4500"
+    },
+    {
+      "id": 71,
+      "name": "مورو كيك",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "يتميز بطعمه الغني بالشوكولاتة وملمسه الإسفنجي والرطب ومغمور بالشكولاتة من الخارج.",
+          "img": "./CoffePhoto/morocake.png"
+        }
+      ],
+      "price": "6000"
+    },
+    {
+      "id": 72,
+      "name": "موس كيك",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "حلوى فرنسية الأصل تتكون من طبقتي الموس والجاتو الكريمية مما يجعل الحلا اكثر تناغما وتنوعا.",
+          "img": "./CoffePhoto/moussecake.png"
+        }
+      ],
+      "price": "6000"
+    },
+    {
+      "id": 73,
+      "name": "كرسبي كيك",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "كيك بالشكولاتة المقرمشة.",
+          "img": "./CoffePhoto/crispycake.png"
+        }
+      ],
+      "price": "6500"
+    },
+    {
+      "id": 74,
+      "name": "وافل كلاسيك",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "بسكويت الوافل مضاف اليه الشكولاتة مقدمة بطريقة كلاسيكية.",
+          "img": "./CoffePhoto/classicwaffle.png"
+        }
+      ],
+      "price": "7500"
+    },
+    {
+      "id": 75,
+      "name": "وافل فرايز",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "اصابع الوافل الذهبية المقرمشة.",
+          "img": "./CoffePhoto/wafflefries.png"
+        }
+      ],
+      "price": "7500"
+    },
+    {
+      "id": 76,
+      "name": "تشيز بستاشيو",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "حلوى مكونة من عدة طبقات، تتكون الطبقة السفلى من البسكويت والطبقة العلوى من الجبنة الكريمية لزبدة الفستق.",
+          "img": "./CoffePhoto/pistachiocheesecake.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 77,
+      "name": "تشيز لوتس",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "طبقة من بسكويت لوتس المجروش تعلوها طبقة من كريمة الجبن مغطاه بكريمة اللوتس.",
+          "img": "./CoffePhoto/lotuscheesecake.png"
+        }
+      ],
+      "price": "6500"
+    },
+    {
+      "id": 78,
+      "name": "ميني بان كيك",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "ميني بان كيك مع مجموعة متنوعة من الإضافات.",
+          "img": "./CoffePhoto/minipancakes.png"
+        }
+      ],
+      "price": "6500"
+    },
+    {
+      "id": 79,
+      "name": "كريب فوتشيني",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "بان كيك محلى بالنوتيلا فرنسي الأصل مقدم بطريقة الفوتشيني الإيطالي.",
+          "img": "./CoffePhoto/crepefettuccine.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 80,
+      "name": "كريب",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "حلوى",
+          "description": "نوع من البان كيك الرقيق المحلى بمزيج من أنواع الشكولاتة فرنسي الأصل.",
+          "img": "./CoffePhoto/crepe.png"
+        }
+      ],
+      "price": "6000"
+    },
+    {
+      "id": 81,
+      "name": "عدن ساندويتش",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "ساندويتش",
+          "description": "وجبة خفيف تحتوي على الاجبان المشكلة والسلطة فقط.",
+          "img": "./CoffePhoto/AdenSandwich.png"
+        }
+      ],
+      "price": "3500"
+    },
+    {
+      "id": 82,
+      "name": "انجليش بريك فاست",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "وجبة إفطار",
+          "description": "فطور منوع بالأجبان والزيتون والسلطة، يقدم مع مثلثات الخبز.",
+          "img": "./CoffePhoto/EnglishBreakfast.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 83,
+      "name": "امريكان ساندويتش",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "ساندويتش",
+          "description": "طبقات من الخبز السلايس بداخلها بطاطس مقلية مع طبقة اومليت(بيض مقلي)، وقطع الدجاج او النقانق.",
+          "img": "./CoffePhoto/AmericanSandwich.png"
+        }
+      ],
+      "price": "3500"
+    },
+    {
+      "id": 84,
+      "name": "ورق عنب",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "وجبة إفطار",
+          "description": "يتكون من أوراق العنب المحشوة بالأرز والخضار.",
+          "img": "./CoffePhoto/stuffedgrapeleaves.png"
+        }
+      ],
+      "price": "4800"
+    },
+    {
+      "id": 85,
+      "name": "فرابتشينو نوتيلا",
+      "category": ["الآيسكريم"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "ايس كريم مع قهوة مركزة مع حليب بنكهة النوتيلا.",
+          "img": "./CoffePhoto/nutellafrappuccino.png"
+        }
+      ],
+      "price": "6500"
+    },
+    {
+      "id": 86,
+      "name": "فرابتشينو كراميل",
+      "category": ["الآيسكريم"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "ايس كريم مع قهوة مركزة مع حليب بنكهة الكراميل.",
+          "img": "./CoffePhoto/caramelfrappuccino.png"
+        }
+      ],
+      "price": "6500"
+    },
+    {
+      "id": 87,
+      "name": "فرابتشينو بستاشيو",
+      "category": ["الآيسكريم"],
+      "kind": [
+        {
+          "type": "مشروب",
+          "description": "ايس كريم مع قهوة مركزة مع حليب بنكهة زبدة الفستق.",
+          "img": "./CoffePhoto/pistachiofrappuccino.png"
+        }
+      ],
+      "price": "6500"
+    },
+    {
+      "id": 88,
+      "name": "شاهي احمر",
+      "category": ["أوراق الشاهي"],
+      "kind": [
+        {
+          "type": "شاي",
+          "description": "شاي احمر بالطريقة التقليدية.",
+          "img": "./CoffePhoto/redtea.png"
+        }
+      ],
+      "price": "2000"
+    },
+
+
+
+
+
+
+
+
+
+
+    
+    {
+      "id": 89,
+      "name": "عدني بريك فاست",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "وجبة إفطار",
+          "description": "فاصوليا حمراء تقدم مع مثلثات الخبز ومشروب الشاي.",
+          "img": "./CoffePhoto/AdeniBreakfast.png"
+        }
+      ],
+      "price": "8500"
+    },
+    {
+      "id": 90,
+      "name": "الإفطار الأمريكي ",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "وجبة إفطار",
+          "description": "مزيج من اومليت( البيض مقلي) ، النقانق ، البطاطا المقلية يقدم مع العيش.",
+          "img": "./CoffePhoto/AmericanBreakfast.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 91,
+      "name": "اومليت فلاور ",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "وجبة إفطار",
+          "description": "مخفوق البيض المقلي بالخضار وقطع القرنبيط، تقدم مع العيش.",
+          "img": "./CoffePhoto/OmelettewithCauliflower.png"
+        }
+      ],
+      "price": "5500"
+    },
+    {
+      "id": 92,
+      "name": "كلوب ساندويتش ",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "وجبة إفطار",
+          "description": "طبقات من الخبز السلايس مع شرائح اللحم المقدد، والجبن والسطلة.",
+          "img": "./CoffePhoto/kloabsand.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 93,
+      "name": "ساندويتش تونا ",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "ساندويتش",
+          "description": "يحتوي على مزيج من لحم التونا المدخن، إضافة الى السلطة.",
+          "img": "./CoffePhoto/TunaSandwich.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 94,
+      "name": " ساندويتش مكسيكي دجاج",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "ساندويتش",
+          "description": "ساندويتش بالدجاج المحضر بالخضار والذرة والاجبان",
+          "img": "./CoffePhoto/mixcanchickensandwitch.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 95,
+      "name": "ساندويتش مكسيكي لحم",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "ساندويتش",
+          "description": "ساندويتش بالحم المفروم المحضر بالخضار والاجبان.",
+          "img": "./CoffePhoto/MexicanBeefSandwich.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 96,
+      "name": "بيتزا لحم ",
+      "category": ["بيتزا"],
+      "kind": [
+        {
+          "type": "بيتزا",
+          "description": "بيتزا تحتوي على الجبنة وطحين الريحان المجفف إضافة لصوص الحم المتبل(البولونيز).",
+          "img": "./CoffePhoto/MeatPizza.png"
+        }
+      ],
+      "price": "كبير 12000 / صغير 11000"
+    },
+    {
+      "id": 97,
+      "name": "بيتزا دجاج ",
+      "category": ["بيتزا"],
+      "kind": [
+        {
+          "type": "بيتزا",
+          "description": "بيتزا تحتوي على خليط الخضار والجبنة وقطع من الدجاج المقلي المتبل.",
+          "img": "./CoffePhoto/ChickenPizza.png"
+        }
+      ],
+      "price": "كبير 11000 / صغير 10000"
+    },
+    {
+      "id": 98,
+      "name": "بيتزا خضار ",
+      "category": ["بيتزا"],
+      "kind": [
+        {
+          "type": "بيتزا",
+          "description": "بيتزا مكونه من مزيج الخضار والجبنة وحبات الزيتون الملونة.",
+          "img": "./CoffePhoto/VegetablePizza.png"
+        }
+      ],
+      "price": "كبير 11000 / صغير 10000"
+    },
+    {
+      "id": 99,
+      "name": "بيتزا مارجريتا ",
+      "category": ["بيتزا"],
+      "kind": [
+        {
+          "type": "بيتزا",
+          "description": "بيتزا تحتوي ع جبنة الموتزريلا وصوص البيتزا وطحين الريحان المجفف فقط.",
+          "img": "./CoffePhoto/MargheritaPizza.png"
+        }
+      ],
+      "price": "كبير 11000 / صغير 10000"
+    },
+    {
+      "id": 100,
+      "name": "بيتزا ماكس ",
+      "category": ["بيتزا"],
+      "kind": [
+        {
+          "type": "بيتزا",
+          "description": "بيتزا مكس بإضافات منوعة من اللحم والنقانق والدجاج والجبن.",
+          "img": "./CoffePhoto/MaxPizza.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 101,
+      "name": "فوتشيني باستا",
+      "category": ["معكرونة"],
+      "kind": [
+        {
+          "type": "معكرونة",
+          "description": "تتكون من معكرونة الفوتاتشيني المسلوقة ذات القوام العريضة اضافة لكريمة الطبخ وقطع صدور الدجاج المتبلة وحبات الفطر بالخضار.",
+          "img": "./CoffePhoto/FettuccinePasta.png"
+        }
+      ],
+      "price": "9500"
+    },
+    {
+      "id": 102,
+      "name": "باستا بشاميل",
+      "category": ["معكرونة"],
+      "kind": [
+        {
+          "type": "معكرونة",
+          "description": "تتكون من حبات الباستا القصيرة المسلوقة وطبقات من صوص البشاميل يتوسطها قطع من الدجاج المتبل تنتهي هذه الطبقات بجبن الموتزريلا المحمر بالفرن بدرجة حرارة عالية (يمكن اختيارها ايضا بالتونة أو اللحم).",
+          "img": "./CoffePhoto/BechamelPasta.png"
+        }
+      ],
+      "price": "8000"
+    },
+    {
+      "id": 103,
+      "name": "باستا لازانيا",
+      "category": ["معكرونة"],
+      "kind": [
+        {
+          "type": "معكرونة",
+          "description": "تحتوي على معكرونة اللزانية المعروفة بشكله الرفيع المسطح، يحتويها صوص البولونيز الاحمر باللحم والجبن الموتزريلا المحمر بالفرن",
+          "img": "./CoffePhoto/LasagnaPasta.png"
+        }
+      ],
+      "price": "8000"
+    },
+    {
+      "id": 104,
+      "name": "برجر لحم ",
+      "category": ["برجر"],
+      "kind": [
+        {
+          "type": "برجر",
+          "description": "برجر لحم مشوي مع خس، طماطم، يقدم في خبز برجر طازج.",
+          "img": "./CoffePhoto/BeefBurger.png"
+        }
+      ],
+      "price": "دبل 9000 / سنجل 6000"
+    },
+    {
+      "id": 105,
+      "name": "برجر دجاج ",
+      "category": ["برجر"],
+      "kind": [
+        {
+          "type": "برجر",
+          "description": "شريحة دجاج مشوية، مع خس، طماطم، يقدم في خبز برجر طازج",
+          "img": "./CoffePhoto/ChickenBurger.png"
+        }
+      ],
+      "price":  "دبل 5500 / سنجل 4000"
+    },
+    {
+      "id": 106,
+      "name": "شاهي حليب عدني",
+      "category": ["أوراق الشاهي"],
+      "kind": [
+        {
+          "type": "شاي",
+          "description": "شاهي بالحليب.",
+          "img": "./CoffePhoto/milktea.png"
+        }
+      ],
+      "price": "2000"
+    },
+    {
+      "id": 107,
+      "name": "شبس ",
+      "category": ["الإفطار"],
+      "kind": [
+        {
+          "type": "شاي",
+          "description": "شبس مقلي مع الصوص اللذيذ.",
+          "img": "./CoffePhoto/chipswithsauce.png"
+        }
+      ],
+      "price": "0"
+    },
+    {
+      "id": 108,
+      "name": "كيكه تركيه  ",
+      "category": ["الحلويات"],
+      "kind": [
+        {
+          "type": "كيكه",
+          "description": "كيكه تركيه بالحليب ",
+          "img": "./CoffePhoto/terleshshsea.png"
+        }
+      ],
+      "price": "6500"
+    }
+  ]
+}
